@@ -105,7 +105,7 @@ Through this project, I learned not just the technical aspects of Python, SQL, a
 
 ## 💡 **Acknowledgment**
 
-This project was inspired by the amazing YouTube channel **[Amlan Mohanty](https://www.youtube.com/@AmlanMohanty)**, whose tutorials helped me understand the step-by-step approach to solving business problems using data analytics.
+This project was inspired by the amazing YouTube channel **[Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)**, whose tutorials helped me understand the step-by-step approach to solving business problems using data analytics.
 
 ---
 
